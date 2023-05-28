@@ -36,8 +36,7 @@
     <li>Create a pull request to the original repository, explaining your changes and their benefits.</li>
     <li>Wait for the project maintainers to review and merge your pull request.</li>
   </ol>
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
+
   <h2>Contact</h2>
   <p>If you have any questions or suggestions regarding the Flight Price Predictor project, please feel free to contact the project maintainers:</p>
   <ul>
