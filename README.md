@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Flight Price Predictor - README</title>
 </head>
 <body>
   <h1>Flight Price Predictor</h1>
