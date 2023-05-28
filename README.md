@@ -41,8 +41,8 @@
   <h2>Contact</h2>
   <p>If you have any questions or suggestions regarding the Flight Price Predictor project, please feel free to contact the project maintainers:</p>
   <ul>
-    <li>John Doe - john.doe@example.com</li>
-    <li>Jane Smith - jane.smith@example.com</li>
+    <li>mr.harsh22mishra@gmail.com</li>
+    
   </ul>
 </body>
 </html>
